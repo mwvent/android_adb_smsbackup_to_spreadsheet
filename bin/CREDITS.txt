@@ -1,0 +1,2 @@
+https://forum.xda-developers.com/t/manually-restoring-text-messages-from-partial-adb-backup-on-unrooted-phone.3587950/
+https://github.com/nelenkov/android-backup-extractor
